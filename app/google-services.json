@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "90947816271",
+    "firebase_url": "https://billspliter-b19b7.firebaseio.com",
+    "project_id": "billspliter-b19b7",
+    "storage_bucket": "billspliter-b19b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90947816271:android:c9ae483dcea2962c09933a",
+        "android_client_info": {
+          "package_name": "com.example.billspliter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90947816271-87626qu0q520gesbra7l6p443ou9iija.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.billspliter",
+            "certificate_hash": "8e906fd25a3665cd474daff8b753ea9043e471de"
+          }
+        },
+        {
+          "client_id": "90947816271-gg973edrh1ethq9ufkdn36u2aeigsp0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWwvODRISu6C0tho_KhRhXXodeKlmRKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90947816271-gg973edrh1ethq9ufkdn36u2aeigsp0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
